@@ -1,0 +1,8 @@
+C:\Proj\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Proj\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Proj\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Proj\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Proj\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.SuggestedBindingRedirects.cache
+C:\Proj\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Proj\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Proj\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
